@@ -1,0 +1,22 @@
+2019/03/19 11:48:00 The serverHost url localhost:9999
+2019/03/19 11:48:00 Server Listening .....
+2019/03/19 11:48:08 HAndling chat request 
+2019/03/19 11:48:10 MEssage retireved when add user recieved asdf at 11:48 AM says dsf
+2019/03/19 11:48:10 Done creating new User
+2019/03/19 11:48:10 going to add user &{1 0xc0000c0c60 0xc000082190 0xc0000d2360 0xc00021b620}
+2019/03/19 11:48:10 In AddUser
+2019/03/19 11:48:10 user added successfully
+2019/03/19 11:48:10 Added a new User
+2019/03/19 11:48:10 Now  1  users are connected to chat room
+2019/03/19 11:48:10 In Sending to all Connected users
+2019/03/19 11:48:10 Listening to write to client
+2019/03/19 11:48:12 In Sending to all Connected users
+2019/03/19 11:48:13 In Sending to all Connected users
+2019/03/19 11:48:14 In Sending to all Connected users
+2019/03/19 13:14:37 Done Channel for user:
+2019/03/19 13:14:37 Removing user
+2019/03/19 13:14:37 Removing user from chat room
+2019/03/19 13:14:37 Error while reading JSON from websocket  websocket: close 1001 (going away)
+2019/03/19 13:14:37 Removing user
+2019/03/19 13:14:37 Error :  websocket: close 1001 (going away)
+2019/03/19 13:14:37 Removing user from chat room
